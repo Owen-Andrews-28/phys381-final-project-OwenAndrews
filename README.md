@@ -1,0 +1,1 @@
+I plan to analyze how elevation affects the probablility of a hit being a homerun in the MLB. I plan to simulate many random "hits" with different exit velocities and launch angles and then change the drag in the equations of motion to see how far the balls would go. This involves the concepts of drag and air density. I will use Python and Mathematica.
